@@ -1,4 +1,4 @@
-let aviones = "boeing 737"
+let aviones = "boeing 537"
 
 
 let avion2 = {
@@ -6,3 +6,5 @@ let avion2 = {
     velocidad: 22344,
     vendido: true
 }
+
+let chau= "cayo el avion "+ aviones
